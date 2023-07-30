@@ -1,4 +1,4 @@
-package com.rodclub.propertypathexists.annotation;
+package com.rodclub.propertypathexists;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
